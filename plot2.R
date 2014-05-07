@@ -1,4 +1,5 @@
-##This script assumes that in the working directory is present a file named "household_power_consumption.txt". This file is a copy of the one described in README
+###This script assumes that in the working directory is present a file named "household_power_consumption.txt". 
+###This file is a copy of the one described in README
 
 #loads required packages
 require("sqldf")
